@@ -35,6 +35,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a30s/proprietary/vendor/lib/hw/audio.primary.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib/hw/camera.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib/hw/gatekeeper.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.exynos7904.so \
+    vendor/samsung/a30s/proprietary/vendor/lib/hw/memtrack.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/memtrack.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib/hw/sensors.universal7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.universal7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib/hw/thermal.universal7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/thermal.universal7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib/libOpenCv.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOpenCv.camera.samsung.so \
@@ -61,6 +62,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a30s/proprietary/vendor/lib64/hw/camera.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib64/hw/gatekeeper.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib64/hw/sensors.universal7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sensors.universal7904.so \
+    vendor/samsung/a30s/proprietary/vendor/lib64/hw/memtrack.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/memtrack.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib64/hw/thermal.universal7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/thermal.universal7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib64/libSEF.quram.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSEF.quram.so \
     vendor/samsung/a30s/proprietary/vendor/lib64/libegis_fp_normal_sensor_test.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libegis_fp_normal_sensor_test.so \
