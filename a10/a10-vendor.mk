@@ -63,7 +63,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a20e/proprietary/vendor/lib64/hw/gatekeeper.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.exynos7884B.so \
     vendor/samsung/a20e/proprietary/vendor/lib64/hw/gralloc.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gralloc.exynos7884B.so \
     vendor/samsung/a20e/proprietary/vendor/lib64/hw/hwcomposer.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/hwcomposer.exynos7884B.so \
-    vendor/samsung/a20e/proprietary/vendor/lib64/hw/memtrack.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/memtrack.exynos7884B.so 
+    vendor/samsung/a20e/proprietary/vendor/lib64/hw/memtrack.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/memtrack.exynos7884B.so \
     vendor/samsung/a20e/proprietary/vendor/lib64/hw/thermal.universal7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/thermal.universal7884B.so \
     vendor/samsung/a10/proprietary/vendor/lib64/libExynosHWCService.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libExynosHWCService.so \
     vendor/samsung/a20e/proprietary/vendor/lib64/libOpenCv.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOpenCv.camera.samsung.so \
